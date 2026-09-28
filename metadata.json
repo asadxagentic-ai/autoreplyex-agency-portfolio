@@ -1,0 +1,7 @@
+{
+  "name": "Axion Studio",
+  "description": "A design agency crafting digital experiences for category-dominating brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
